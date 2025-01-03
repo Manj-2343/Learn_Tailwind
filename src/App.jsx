@@ -15,6 +15,8 @@ import PercentageWidth from "./component/sizing/width/PercentageWidth";
 import MaxWidth from "./component/sizing/width/MaxWidth";
 import ViewPortWidth from "./component/sizing/width/ViewPortWidth";
 import ArbitraryWidth from "./component/sizing/width/ArbitraryWidth";
+import Height from "./component/sizing/height/Height";
+import MinHeight from "./component/sizing/height/MinHeight";
 
 const App = () => {
   return (
@@ -34,7 +36,9 @@ const App = () => {
       {/* <PercentageWidth /> */}
       {/* <MaxWidth /> */}
       {/* <ViewPortWidth /> */}
-      <ArbitraryWidth />
+      {/* <ArbitraryWidth /> */}
+      {/* <Height /> */}
+      <MinHeight />
     </div>
   );
 };
