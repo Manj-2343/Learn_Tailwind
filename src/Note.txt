@@ -1,0 +1,15 @@
+1.=>"color": https://tailwindcss.com/docs/customizing-colors
+
+           1.color with different shades
+             i.for changing the text color:className:text-green-500
+           2. BackgroundColor:https://tailwindcss.com/docs/background-color
+             i.for changing the backgroundColor color:bg-red-600
+           3.Text Decoration:https://tailwindcss.com/docs/text-decoration-style
+             i.for changing the backgroundColor color:decoration-solid
+           4.Accent Color:https://tailwindcss.com/docs/accent-color
+             i.for changing the backgroundColor color:accent-slate-100
+           5.Arbitrary color:https://tailwindcss.com/docs/caret-color#arbitrary-values   
+             i.for changing the backgroundColor color:caret-[#50d71e]
+
+ii.=>"space":
+        1.Margin:https://tailwindcss.com/docs/margin#add-margin-to-a-single-side
